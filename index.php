@@ -123,7 +123,7 @@ include 'templates/inicio.php';?>
 						<section>
 							<div class="content">
 								<header>
-									<a href="promotions "><img class="inner" src="images/fotos/promociones.jpg"><span class="label"></span></a>
+									<a href="promotions"><img class="inner" src="images/fotos/promociones.jpg"><span class="label"></span></a>
 									<h3>Promociones de Temporada</h3>
 								</header>
 								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
